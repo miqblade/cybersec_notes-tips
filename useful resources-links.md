@@ -1,10 +1,10 @@
 # Practice in virtual laboratories
 
-| ------------------- | -------------------------------------------- | 
-| **Hack The Box**    | [hackthebox.com](https://www.hackthebox.com) |
-| **TryHackMe Rooms** | [tryhackme.com](https://tryhackme.com)       | 
-| **VulnHub**         | [vulnhub.com](https://www.vulnhub.com)       | 
-| **PentesterLab**    | [pentesterlab.com](https://pentesterlab.com) |
-| **OverTheWire**     | [overthewire.org](https://overthewire.org)   |
+| ------------------- | -------------------------- | 
+| **Hack The Box**    | https://www.hackthebox.com |
+| **TryHackMe Rooms** | https://tryhackme.com      | 
+| **VulnHub**         | https://www.vulnhub.com    |  
+| **PentesterLab**    | https://pentesterlab.com   |
+| **OverTheWire**     | https://overthewire.org    |
 
 
