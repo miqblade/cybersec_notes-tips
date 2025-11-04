@@ -1,5 +1,7 @@
 Google Dorks
 
+usefull resource - https://www.exploit-db.com/google-hacking-database
+
 # Basic operators
 
 | Оператор |                 example  | Призначення (EN / UA)                  |
